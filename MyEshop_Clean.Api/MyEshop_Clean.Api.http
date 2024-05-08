@@ -1,0 +1,6 @@
+@MyEshop_Clean.Api_HostAddress = http://localhost:5097
+
+GET {{MyEshop_Clean.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
